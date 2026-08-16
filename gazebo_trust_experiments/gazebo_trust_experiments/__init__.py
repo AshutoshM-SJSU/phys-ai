@@ -1,1 +1,0 @@
-"""Gazebo trust experiment package."""
